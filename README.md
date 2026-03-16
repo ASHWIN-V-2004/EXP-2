@@ -53,12 +53,16 @@ Tabulation for Load Test:
 ![alt text](image-5.png)
 Open circuit characteristics
 ![alt text](image.png)
-
+ ![alt text](image-6.png)
+graph
+ ![alt text](image-7.png)
 Model graph: 
 ![alt text](image-2.png)
 Load Characteristics:
  ![alt text](image-1.png)
-
+ ![alt text](image-8.png)
+graph
+![alt text](image-9.png)
 Model graph:
 ![alt text](image-3.png)
 Result:
